@@ -1,2 +1,2 @@
 # graphic-Dictionary
-au yeah yeah :V
+Dưới đây là code đồ họa Từ điển bằng Java Swing
